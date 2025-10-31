@@ -1,0 +1,3 @@
+text# One URL per line. Category, search, or product pages are allowed.
+https://www.fahorro.com/busqueda?q=paracetamol
+https://www.fahorro.com/
