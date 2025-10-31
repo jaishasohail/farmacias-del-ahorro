@@ -1,0 +1,12 @@
+{
+ "timeout": 20,
+ "max_retries": 3,
+ "backoff_base": 0.5,
+ "rotate_user_agents": true,
+ "headers": {
+ "Cache-Control": "no-cache"
+ },
+ "request_delay": 0.8,
+ "concurrency_batch": 8,
+ "log_level": "INFO"
+}
